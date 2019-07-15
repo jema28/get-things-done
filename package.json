@@ -1,0 +1,28 @@
+{
+  "name": "get-things-done",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jema28/get-things-done.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jema28/get-things-done/issues"
+  },
+  "homepage": "https://github.com/jema28/get-things-done#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1"
+  }
+}
