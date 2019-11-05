@@ -22,7 +22,7 @@
   "homepage": "https://github.com/jema28/get-things-done#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "dotenv": "^8.0.0"
   },
   "devDependencies": {
